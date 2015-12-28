@@ -1,8 +1,8 @@
 # Console-Editor
 
--This project was done during my exchange semester in Indian Institute of Technology Delhi.
-The project was to design and Implement a console editor , something like nano editor in unix .
-This editor is implemented in c++, ncurses libray is used to handle keyboard events and console graphical interface. 
+-This project was done during my exchange semester in Indian Institute of Technology Delhi. <br/>
+The project was to design and Implement a console editor , something like nano editor in unix . <br/>
+This editor is implemented in c++, ncurses libray is used to handle keyboard events and  graphical interface. 
 
 =======================================================================================================================
 
