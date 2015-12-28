@@ -1,0 +1,5 @@
+#!/bin/bash 
+
+chmod 700 run.sh
+g++   main.cpp dataModule.cpp fileModule.cpp keybord.cpp displayModule.cpp  -o exe -lncurses -lpanel -lform 
+./exe
