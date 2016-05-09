@@ -8,7 +8,7 @@ The project is not yet achieved. But basic functionalities are working.
 =======================================================================================================================
 
  -Compile and Run scripts are provided.   
-COMMAND FOR COMPILE: ./compile.sh  AND  RUN : ./run.sh
+COMMAND FOR COMPILE: ./compile.sh  AND  RUN : ./run.sh <br/>
 By defaut ncurses is installed on linux , but if it is not the case, apt-get install is your friend.
 
 ===================================================================================================
