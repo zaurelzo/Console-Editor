@@ -19,18 +19,19 @@ The project is not yet achieved. But basic functionalities are working.
  ./run.sh
 ```
 
--EDITOR COMMANDS <br/> 
-ctrl-u : copy <br/> 
-ctrl -t : select <br/> 
-ctrl -r : paste <br/> 
-ctrl-a : save  <br/> 
-crtl-e : open <br/> 
-ctrl-f:search <br/> 
--ctrld -d ,remove current word <br/> 
-KEY LEFT :move cursor left <br/> 
-KEY RIGHT : move cursor left <br/> 
-KEY UP :move cursor up <br/> 
-KEY RIGHT : move cursor down <br/> 
-BACKSPACE : DELETE  <br/> 
+##EDITOR COMMANDS 
 
-===================================================================================================
+```bash
+ ctrl-u : copy 
+ ctrl -t : select 
+ ctrl -r : paste
+ ctrl-a : save 
+ crtl-e : open 
+ ctrl-f : search 
+ ctrld -d : remove current word
+ KEY LEFT : move cursor left 
+ KEY RIGHT : move cursor left 
+ KEY UP : move cursor up
+ KEY RIGHT : move cursor down 
+ BACKSPACE : DELETE  
+```
