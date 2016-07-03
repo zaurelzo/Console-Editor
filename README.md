@@ -33,5 +33,5 @@ The project is not yet achieved. But basic functionalities are working.
  KEY RIGHT : move cursor left 
  KEY UP : move cursor up
  KEY RIGHT : move cursor down 
- BACKSPACE : DELETE  
+ BACKSPACE : Delete
 ```
